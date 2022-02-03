@@ -1,7 +1,9 @@
 ---
 title: Rainbow Bridge Songshan
 city: Taipei
-slug: rainbow-bridge-songshan
+slug: rainbow-bridge
+thumb: ../images/thumbs/rainbow-bridge.jpg
+featuredImg: ../images/featured/rainbow-bridge-two.jpg
 ---
 
 # Rainbow Bridge (彩虹橋)

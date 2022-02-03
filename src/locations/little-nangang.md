@@ -1,7 +1,9 @@
 ---
 title: Little Nangang Mountain
 city: Taipei
-slug: little-nangang-mountain
+slug: little-nangang
+thumb: ../images/thumbs/little-nangang.jpg
+featuredImg: ../images/featured/little-nangang-two.jpg
 ---
 
 # Little Nangang Mountain (小南港山)
